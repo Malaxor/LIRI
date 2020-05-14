@@ -10,6 +10,7 @@ Type the commands below in your GitBash CLI while in this project's root folder:
 + node app.js movie-this 'movie name':  requires a movie name as a fourth argument, and returns information about that movie. NOTE: OMDB api is inconsistent so the API used here 'movieDB' does not return as comprehensive movie data
 
 + node app.js do-what-it-says: will spotify a song's name chosen at random from a list located in a pregenerated .txt file.
+
 I've uploaded a demo video for those short on time but curious enough to see this app in action.
 
 View demo video here: https://www.youtube.com/watch?v=ZBpw2yvVb3M
